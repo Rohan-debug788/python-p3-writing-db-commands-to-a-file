@@ -1,0 +1,5 @@
+CREATE TABLE cats (
+    ID INTEGER PRIMARY KEY,
+    name TEXT,
+    age INTEGER
+);
